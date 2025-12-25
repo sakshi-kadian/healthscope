@@ -4,7 +4,7 @@
 
 ---
 
-## 🛠️ Built With
+## Built With
 
 - **Frontend:** Next.js, Tailwind CSS
 
