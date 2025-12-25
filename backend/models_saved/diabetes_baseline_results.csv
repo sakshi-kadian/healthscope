@@ -1,0 +1,2 @@
+model,dataset,train_size,test_size,train_accuracy,train_precision,train_recall,train_f1,train_roc_auc,test_accuracy,test_precision,test_recall,test_f1,test_roc_auc
+Logistic Regression (Baseline),Diabetes,614,154,0.7638436482084691,0.7878103837471784,0.8725,0.8279952550415184,0.8538668224299066,0.7532467532467533,0.7672413793103449,0.89,0.8240740740740741,0.842037037037037

@@ -1,0 +1,2 @@
+model,dataset,train_size,test_size,num_classes,train_accuracy,train_precision,train_recall,train_f1,train_roc_auc,test_accuracy,test_precision,test_recall,test_f1,test_roc_auc
+Logistic Regression (Baseline),Obesity,1669,418,7,0.9736369083283404,0.9736223647571323,0.9736369083283404,0.9735452518045452,0.9982572511236004,0.9545454545454546,0.9550687398126626,0.9545454545454546,0.9539871079787213,0.9964266053567591

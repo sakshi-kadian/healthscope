@@ -1,0 +1,4 @@
+dataset,model_path,loaded,has_predict,has_predict_proba,status
+Diabetes,models_saved/diabetes_model.pkl,True,True,True,PASS
+Heart Disease,models_saved/heart_model.pkl,True,True,True,PASS
+Obesity,models_saved/obesity_model.pkl,True,True,True,PASS

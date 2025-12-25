@@ -1,0 +1,6 @@
+Rank,Diabetes,Diabetes_Importance,Heart,Heart_Importance,Obesity,Obesity_Importance
+1,bmi_glucose_interaction,0.0836,cp,0.8407,calculated_bmi,0.0730
+2,age_glucose_interaction,0.0602,sex,0.6325,bmi_category,0.0627
+3,glucose,0.0533,thalach,0.5932,weight,0.0426
+4,risk_score,0.0465,ca,0.5653,age_bmi_interaction,0.0281
+5,diabetes_pedigree,0.0271,thal,0.4732,fcvc,0.0154

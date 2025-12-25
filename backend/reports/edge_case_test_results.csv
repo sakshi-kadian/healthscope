@@ -1,0 +1,5 @@
+dataset,case,status,prediction
+Diabetes,All Zeros,PASS,0
+Diabetes,All Ones,PASS,1
+Heart,All Zeros,PASS,1
+Obesity,All Zeros,PASS,6
